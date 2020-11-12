@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "io.github.adm18312190.BelajarGit"
